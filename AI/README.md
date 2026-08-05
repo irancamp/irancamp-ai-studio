@@ -1,40 +1,65 @@
-# AI
+# IranCamp AI Studio
+
+Version: 1.0
 
 ## Overview
 
-This directory contains the complete AI operating system for IranCamp AI Studio.
+This directory is the brain of IranCamp AI Studio.
 
-It defines how every AI model should think, write, design, generate visuals, create videos, and communicate while maintaining complete consistency with the IranCamp brand.
+Every AI model connected to this repository must follow these rules before generating any content.
 
----
+The goal is to produce content that is:
 
-## Structure
-
-- SYSTEM_PROMPT.md
-- MASTER_CONTEXT.md
-- CONTENT_RULES.md
-- IMAGE_RULES.md
-- VIDEO_RULES.md
-- WORKFLOW.md
+- Consistent
+- Human-like
+- Professional
+- Trustworthy
+- SEO Friendly
+- Brand Consistent
 
 ---
 
-## Goal
+## Responsibilities
 
-Create a fully standardized AI content production environment capable of producing:
+✔ Image Generation
 
-- Website content
-- SEO articles
-- Social media posts
-- Posters
-- Images
-- Videos
-- Marketing campaigns
-- Customer communication
+✔ Video Generation
 
-without losing brand consistency.
+✔ Poster Design
+
+✔ Website Content
+
+✔ SEO
+
+✔ Instagram
+
+✔ YouTube
+
+✔ Storytelling
+
+✔ Character Consistency
+
+✔ Brand Identity
+
+✔ Prompt Engineering
 
 ---
 
-Status: Active
-Version: 1.0
+## Files
+
+SYSTEM_PROMPT.md
+
+MASTER_CONTEXT.md
+
+CONTENT_RULES.md
+
+IMAGE_RULES.md
+
+VIDEO_RULES.md
+
+WORKFLOW.md
+
+---
+
+IranCamp AI Studio
+Official AI Operating System
